@@ -1,0 +1,6 @@
+{"level":"info","message":"App now running on port 3001"}
+{"level":"info","message":"App now running on port 3001"}
+{"level":"info","message":"::1 - - [18/Nov/2022:12:14:31 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2022:12:14:35 +0000] \"GET /favicon.ico HTTP/1.1\" 404 61 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36\"\n"}
+{"level":"info","message":"App now running on port 3001"}
+{"level":"info","message":"App now running on port 3001"}

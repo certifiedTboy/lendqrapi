@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\USER\\Desktop\\lendqrapi\\src\\logs\\.2cb12cfbcb426d880059db2da1f0e5b0220eeb8e-audit.json",
+    "files": [
+        {
+            "date": 1669415615203,
+            "name": "C:\\Users\\USER\\Desktop\\lendqrapi\\src\\logs\\application-2022-11-26.log",
+            "hash": "3cb155c8629b665573a7a968673e43f0619c4b06c3c7ffea3259414070f26477"
+        },
+        {
+            "date": 1669549343636,
+            "name": "C:\\Users\\USER\\Desktop\\lendqrapi\\src\\logs\\application-2022-11-27.log",
+            "hash": "2188ced8bf5b2f801b37ce87bbe9d6eef4a0f64458a7eee23ecd759866e1926f"
+        },
+        {
+            "date": 1669634379022,
+            "name": "C:\\Users\\USER\\Desktop\\lendqrapi\\src\\logs\\application-2022-11-28.log",
+            "hash": "ac1b612c620ec2cd0b7c6a1687f4a29fe97ae373f108d5ba1221d9c176462848"
+        },
+        {
+            "date": 1669680468682,
+            "name": "C:\\Users\\USER\\Desktop\\lendqrapi\\src\\logs\\application-2022-11-29.log",
+            "hash": "9686f57a0773df5673677f299f10eaac37cefd9965fa8c23902c2c4cecccb6e3"
+        },
+        {
+            "date": 1669809710852,
+            "name": "C:\\Users\\USER\\Desktop\\lendqrapi\\src\\logs\\application-2022-11-30.log",
+            "hash": "ad077ad72a8619fe13f590705a240eca4e8c53bec109fa4d97741e5cc1ef4249"
+        }
+    ],
+    "hashType": "sha256"
+}

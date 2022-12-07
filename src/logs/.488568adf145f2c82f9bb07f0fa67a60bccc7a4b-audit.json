@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\USER\\Desktop\\lendQrApi\\src\\logs\\.488568adf145f2c82f9bb07f0fa67a60bccc7a4b-audit.json",
+    "files": [
+        {
+            "date": 1668773254147,
+            "name": "C:\\Users\\USER\\Desktop\\lendQrApi\\src\\logs\\application-2022-11-18.log",
+            "hash": "435a0e7cc6017c9f2fa9a2401ebf3a87321622d77b71d8e30962e89decbb3dc5"
+        },
+        {
+            "date": 1668904062183,
+            "name": "C:\\Users\\USER\\Desktop\\lendQrApi\\src\\logs\\application-2022-11-20.log",
+            "hash": "1b399feca137762f3c278d566cf428604d511916ed66fc87f19f5cf72b349c75"
+        },
+        {
+            "date": 1668985831695,
+            "name": "C:\\Users\\USER\\Desktop\\lendQrApi\\src\\logs\\application-2022-11-21.log",
+            "hash": "ef3a842888db726333d79abbc0f5fd555f24f737e9f89cf32b5784553621e597"
+        },
+        {
+            "date": 1669104790178,
+            "name": "C:\\Users\\USER\\Desktop\\lendQrApi\\src\\logs\\application-2022-11-22.log",
+            "hash": "62d821d4e4ab5e9cc48252b07dd2778a58a5a435a2d289d71436fbbe8b9ea2b1"
+        },
+        {
+            "date": 1669144043243,
+            "name": "C:\\Users\\USER\\Desktop\\lendQrApi\\src\\logs\\application-2022-11-23.log",
+            "hash": "99f195eca12d94272adcea59489a938b3d4ace21b00dd36d187eefaae4912849"
+        },
+        {
+            "date": 1669232499011,
+            "name": "C:\\Users\\USER\\Desktop\\lendQrApi\\src\\logs\\application-2022-11-24.log",
+            "hash": "9c71c75b189d878c6936e0f22e8e4718c559dd03ab6b50402ea14255897f130f"
+        },
+        {
+            "date": 1669314603941,
+            "name": "C:\\Users\\USER\\Desktop\\lendQrApi\\src\\logs\\application-2022-11-25.log",
+            "hash": "07599b6949e9029bfa8566aa350c6a14b010849946da0e7e0d11198767f53c6e"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\user\\Desktop\\lendQrApi\\src\\logs\\.68e6f7fc355db2c47d2fce5aa315832d9cfd4ff1-audit.json",
+    "files": [
+        {
+            "date": 1670333124419,
+            "name": "C:\\Users\\user\\Desktop\\lendQrApi\\src\\logs\\application-2022-12-06.log",
+            "hash": "43a42e2193a687c526fef990a73841ea31579c19f510ae612736acf3fff4e912"
+        },
+        {
+            "date": 1670408428211,
+            "name": "C:\\Users\\user\\Desktop\\lendQrApi\\src\\logs\\application-2022-12-07.log",
+            "hash": "8052fb3ff335e1cf75abc81eae1213661df231da5ed7f8c88edc4a22a7da96f8"
+        }
+    ],
+    "hashType": "sha256"
+}
